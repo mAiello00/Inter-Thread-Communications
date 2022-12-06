@@ -1,3 +1,0 @@
-pass the id when creating the thread as a parameter
-functions accepts a void *pointer
-cast to chat when printing (char *)string
